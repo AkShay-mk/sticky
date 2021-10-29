@@ -1,0 +1,63 @@
+.main{
+    position: relative;
+    background-color: #000000;
+    width: 100vw;
+   
+    left: 20px;
+    top: 10px;
+    border: 3px solid black;
+    
+}
+h1{
+    text-align: center;
+    color: rgb(180, 25, 121);
+    font-weight: 150px;
+    font-size: xx-large;
+    
+    
+}
+h2{
+    background-color: yellowgreen;
+    text-align: left;
+    font-size: large;
+    padding: 10px 10px 10px 10px;    
+    
+
+}
+h3::before {
+    content: "■";
+    color: pink;
+
+}
+h3{
+    color: white;
+}
+.ic{
+    position: sticky;
+    top: 30px;
+    margin-left: 5px;
+    margin-right: 1160px;
+}
+.cd{
+    position: sticky;
+    top: 30px;
+    margin-left: 5px;
+    margin-right: 1160px;
+  
+    
+    
+}
+
+.d{
+    position: sticky;
+    top: 30px;
+    margin-left: 5px;
+    margin-right: 1160px;
+    
+}
+.aud{
+    text-align: center;
+}
+
+    
+    
